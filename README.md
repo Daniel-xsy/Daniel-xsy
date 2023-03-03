@@ -5,7 +5,7 @@
 I am an undergraduate student in the School of Artificial Intelligence and Automation at Huazhong University of Science and Technology.
 
 - 🔭 I’m currently working on Computer Vision, Adversarial Machine Learning, and Out-of-distribution Robustness.
-- 🔬 I worked as a research intern at John Hopkins University and the University of California, Santa Cruz in 2022 summer.
+- 🔬 I worked as a research intern at Johns Hopkins University and the University of California, Santa Cruz in 2022 summer.
 - ⚽ Football is my favorite.
 - 📫 How to reach me: shaoyuanxie1125@gmail.com.
 
