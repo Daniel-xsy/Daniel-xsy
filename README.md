@@ -7,7 +7,7 @@ I am an undergraduate student in the School of Artificial Intelligence and Autom
 - 🔭 I’m currently working on Computer Vision, Adversarial Machine Learning, and Out-of-distribution Robustness.
 - 🔬 I worked as a research intern at Johns Hopkins University and the University of California, Santa Cruz in 2022 summer.
 - ⚽ Football is my favorite.
-- 📫 How to reach me: shaoyuanxie1125@gmail.com.
+- 📫 How to reach me: shaoyuanxie1125@gmail.com. Wechat: [xsyuan1125]().
 
 
 [![Github status](https://github-readme-stats.vercel.app/api?username=Daniel-xsy)]()
