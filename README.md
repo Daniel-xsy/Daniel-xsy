@@ -6,7 +6,7 @@
 I'm currently a first-year Ph.D. student in the Donald Bren School of Information and Computer Sciences at University of California, Irvine.
 
 - 🔬 I completed my B.Eng at Huazhong University of Science and Technology (HUST). I also spent time working at Johns Hopkins University, UC, Santa Cruz, Nanyang Technological University, and OpenMMLab.
-- 🔭 I worked on Computer Vision, Adversarial Machine Learning, and Out-of-distribution Robustness, especially in the context of autonomous driving.
+- 🔭 I worked on Computer Vision and Machine Learning.
 - ⚽ Football is my favorite.
 - 📫 How to reach me: shaoyuanxie1125@gmail.com. Wechat: [xsyuan1125]().
 
