@@ -5,7 +5,7 @@
 
 I'm a Ph.D. student in the [Donald Bren School of Information and Computer Sciences](https://ics.uci.edu) at [University of California, Irvine](https://uci.edu).
 
-- 🔬 I completed my B.Eng at [Huazhong University of Science and Technology](https://www.hust.edu.cn) (HUST). I also spent time working at [OpenMMLab](https://openmmlab.com) and [MBRDNA](https://mbrdna.com/).
+- 🔬 I completed my B.Eng at [Huazhong University of Science and Technology](https://www.hust.edu.cn) (HUST). I also spent time working at [Shanghai AI Lab - OpenMMLab](https://openmmlab.com) and [Mercedes-Benz Research & Development North America](https://mbrdna.com/).
 - 🔭 I work on the intersection of Machine Learning, Security, and Cyber-Physical Systems.
 - 📫 How to reach me: shaoyuanxie1125@gmail.com / shaoyux@uci.edu / shaoyux@ics.uci.edu. Wechat: [xsyuan1125]().
 
