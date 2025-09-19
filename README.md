@@ -7,7 +7,7 @@ I'm a Ph.D. student in the [Donald Bren School of Information and Computer Scien
 
 - 🔬 I completed my B.Eng at [Huazhong University of Science and Technology](https://www.hust.edu.cn) (HUST). I also spent time working at [Shanghai AI Lab - OpenMMLab](https://openmmlab.com) and [Mercedes-Benz Research & Development North America](https://mbrdna.com/).
 - 🔭 I work on the intersection of Machine Learning, Security, and Cyber-Physical Systems.
-- 📫 How to reach me: shaoyuanxie1125@gmail.com / shaoyux@uci.edu / shaoyux@ics.uci.edu. Wechat: [xsyuan1125]().
+- 📫 How to reach me: shaoyuanxie1125@gmail.com | shaoyux@uci.edu | Wechat: [xsyuan1125]().
 
 
 [![Github status](https://github-readme-stats.vercel.app/api?username=Daniel-xsy)]()
